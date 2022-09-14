@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645243766896",
+    "firebase_url": "https://lojavirtual-73629-default-rtdb.firebaseio.com",
+    "project_id": "lojavirtual-73629",
+    "storage_bucket": "lojavirtual-73629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645243766896:android:e68c28e86714569594ccb5",
+        "android_client_info": {
+          "package_name": "br.com.provensi.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645243766896-9vi1ssfa6hd1gda5f0rqe25e0bi0fjck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCI9uzZQ34StEBgpm1C27yxXl_WS7yoac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645243766896-9vi1ssfa6hd1gda5f0rqe25e0bi0fjck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
